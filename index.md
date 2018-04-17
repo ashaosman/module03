@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Module 03</title>
+<link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/dancing">
+</head>
+<body>
+  <h1>The Cottage Garden</h1>
+  <p>The <i>cottage garden</i> is a distinct style of garden that uses an informal design, dense plantings, and a mixture of ornamental and edible plants.</p>
+<p>The Cottage Garden originated in <a href="">England</a> and its history can be traced back for centuries, although they were re-invented in 1870's England, when stylized versions were formed as a reaction to the more structured and rigorously maintained <a href="">English estate gardens</a>.</p>
+<p>The earliest cottage gardens were more practical than their modern descendants, with an emphasis on vegetables and herbs, along with some fruit trees.</p>
 
-You can use the [editor on GitHub](https://github.com/ashaosman/module03.html/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+p {font-family: 'DancingScriptRegular';
+font-weight: normal;
+font-style: normal;
+font-size:200%; }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+h1 {text-align:center;
+color:blue;
+font-family:'DancingScriptRegular‘;
+font-size:400%;}
 
-### Markdown
+i {color:darkgreen;}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+b {font-family: Helvetica, Arial, sans-serif;
+color: #665544;
+ padding: 0 15% 0 15%; }
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashaosman/module03.html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
